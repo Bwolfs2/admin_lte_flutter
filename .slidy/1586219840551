@@ -1,0 +1,5 @@
+lib/app/modules/help/help_module.dart
+lib/app/modules/help/help_page.dart
+test/app/modules/help/help_page_test.dart
+lib/app/modules/help/help_controller.dart
+test/app/modules/help/help_controller_test.dart

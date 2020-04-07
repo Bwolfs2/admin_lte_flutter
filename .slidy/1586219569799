@@ -1,0 +1,5 @@
+lib/app/modules/invoices/invoices_module.dart
+lib/app/modules/invoices/invoices_page.dart
+test/app/modules/invoices/invoices_page_test.dart
+lib/app/modules/invoices/invoices_controller.dart
+test/app/modules/invoices/invoices_controller_test.dart
